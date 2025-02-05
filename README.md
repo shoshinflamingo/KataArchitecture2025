@@ -4,8 +4,8 @@
 
 ## About our client
 
-## The architecture
+[Proposed architecture](architecture/index.md)
 
-## Decision (ADR)
+[Decision (ADR)](decisions/index.md)
 
 
