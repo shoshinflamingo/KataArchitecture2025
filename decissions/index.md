@@ -1,0 +1,11 @@
+# Decisions (ADRs)
+
+* [ADR-0000](0000-use-MADR-template-for-ADR.md): Use MADR full template for to reflect decisions in a consistent ADR
+  format
+
+## Notes
+
+- Template is adapted from the [full-template](https://github.com/adr/madr/blob/4.0.0/template/adr-template.md?plain=1)
+  of the [MADR project](https://adr.github.io/madr/). MADR is short for Markdown ADR and
+  has [CC0 license](https://github.com/adr/madr/blob/main/LICENSE)
+- General information about ADR is available at <https://adr.github.io/>.
