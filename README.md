@@ -4,7 +4,9 @@
 
 ## About our client
 
-[Proposed architecture](architecture/index.md)
+## Diagrams:
+[Initial architecture](diagrams/initial-architecture)
+[Proposed architecture](diagrams/proposed-architecture)
 
 [Decision (ADR)](decisions/index.md)
 
