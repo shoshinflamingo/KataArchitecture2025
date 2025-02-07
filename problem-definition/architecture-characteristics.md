@@ -24,7 +24,7 @@ See:
 ```
 Critical Information
 
-• As a recognized leader in certification, accuracy of tests, case studies, and grading is job and. *naccurate grading can result in a candidate not getting or maintaining a job and can impact a candidate's career.
+• As a recognized leader in certification, [...] inaccurate grading can result in a candidate not getting or maintaining a job and can impact a candidate's career.
 
 • Inaccurate or misleading certification exams and case studies can undermine the credibility of the company’s current standing in the marketplace, so accuracy of the certification process is vital for the success of the company
 ```
@@ -59,7 +59,7 @@ When you are in the business of providing credibility, security is a must.
 
 Our threat model has identified a few potentially dangerous scenarios like:
 
-* Being able to fake accreditation
+* Faking accreditation
 * Altering the accreditation database (Related to data integrity). Insider job?
 * Denial of service (DoS) during an exam
 * Getting the questions or business case ahead of the test
