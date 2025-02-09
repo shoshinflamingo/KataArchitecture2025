@@ -2,7 +2,7 @@
 
 * [ADR-0000](0000-use-MADR-template-for-ADR.md): Use MADR full template for to reflect decisions in a consistent ADR
   format
-* [ADR-0001](0001-microservice-architecture-scalability-assessment.md): Keep the current microservice architecture
+* [ADR-0001](0001-keep-the-current-scalable-microservice-architecture.md): Keep the current scalable microservice architecture
 * [ADR-0002](0002-leave-infrastructure-as-it-is-but-have-multi-regional-sharding-deployment-as-plan-b): Leave
   infrastructure as it is, but have multi-regional sharding deployment as plan B.
 
