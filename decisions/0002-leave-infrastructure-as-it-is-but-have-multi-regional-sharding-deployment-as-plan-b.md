@@ -1,4 +1,4 @@
-# Leave infrastructure as it is, but have multi-regional sharding deployment as plan B.
+# Leave infrastructure as it is, but have multi-regional sharding deployment as plan B
 
 ## Context and Problem Statement
 
