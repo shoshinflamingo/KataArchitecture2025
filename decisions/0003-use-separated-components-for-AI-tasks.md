@@ -48,6 +48,8 @@ drivers [Software Architecture: The hard parts chapter 7](https://learning.oreil
 * Join with other components
 * Create AI separated components
 
+**Note**: we could have a different ADR per component but the drivers are very similar for all. 
+
 ## Decision Outcome
 
 We chose to create AI separated components because:
