@@ -5,7 +5,8 @@
 * [ADR-0001](0001-keep-the-current-scalable-microservice-architecture.md): Keep the current scalable microservice architecture
 * [ADR-0002](0002-leave-infrastructure-as-it-is-but-have-multi-regional-sharding-deployment-as-plan-b.md): Leave
   infrastructure as it is, but have multi-regional sharding deployment as plan B
-* [ADR-0003](0003-use-separated-components-for-AI-tasks.md) Use different components for AI tasks
+* [ADR-0003](0003-use-separated-components-for-AI-tasks.md): Use different components for AI tasks
+* [ADR-0004](0004-allow-candidates-to-appeal-a-small-set-of-questions.md): Allow candidates to appeal a small set of questions
 
 ## Notes
 

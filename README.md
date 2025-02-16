@@ -8,6 +8,6 @@
 [Initial architecture](diagrams/initial-architecture)
 [Proposed architecture](diagrams/proposed-architecture)
 
-[Decision (ADR)](decisions/index.md)
+[Decision (ADR)](decisions%20(ADRs)/README.md)
 
 
