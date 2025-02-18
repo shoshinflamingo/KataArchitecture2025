@@ -1,11 +1,14 @@
 # Not in scope:
 
-We can anticipate a few needs in our new markets.
-Those are out of the current scope, but we can keep them in mind in some of our trade-off analysis. 
+We can anticipate that operating in new markets will bring future needs that we consider out of the current scope of the
+AI project.
+However, we can still keep the long term in mind in trade-off analysis.
 
 ## Multi-language:
 
 Europe and Asia will probably require multi-language exams, grading and answers in their official languages.
+Internationalization (i18n) and localization (l10n) bring huge complexities by themselves.
+Specially with different character sets in Asia and right-to-left languages.
 
 ## Country-specific tests:
 

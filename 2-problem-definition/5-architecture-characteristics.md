@@ -64,21 +64,21 @@ Our threat model has identified a few potentially dangerous scenarios like:
 * Denial of service (DoS) during an exam
 * Getting the questions or business case ahead of the test
 
-TODO: Finish threat model
+<!--  TODO: Finish threat model -->
 
 After adding AI, we also may be concerned about
 
 * Denial of Wallet (DoW)
 
-### Observability (Auditability)
-
-<!-- TODO: review this -->
+### Observability (Auditability, AI evaluation)
 
 We can expect `SALB` audits.
 
-Even without them, we should be responsible for making sure that the certificate is valid.
+Even without them,we should be responsible for making sure that our company's credibility is not endangered.
 
-We need AI observability to check that it works
+We need AI observability, including AI evaluation that is not an easy task.
+See [AI Engineering,
+chapters 3 & 4](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/ch03.html) about AI evaluation.
 
 
 
