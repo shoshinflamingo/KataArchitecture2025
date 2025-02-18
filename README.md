@@ -12,9 +12,9 @@ And we are:
 * Our third member, unfortunately, got sick and couldn't participate in the Kata.  
 
 ## The Kata
-* [Decisions (ADR)](3-decisions%20(ADRs)/README.md)
 * [Problem definition](1-problem-definition)
 * [Solution space](2-solution-space)
+* [Decisions (ADR)](3-decisions%20(ADRs)/README.md)
 * [Diagrams](4-diagrams)
 
 
