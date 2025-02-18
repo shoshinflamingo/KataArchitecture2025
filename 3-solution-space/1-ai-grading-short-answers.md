@@ -1,4 +1,4 @@
-# Solving short answers with AI
+# AI grading short answers
 
 Driven by the need of precise grading, we need something better than just asking a LLM model to grade
 the short answers.
