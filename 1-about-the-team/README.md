@@ -1,6 +1,6 @@
 ## Shoshin Flamingo team:
 
-![Compulsory AI generated image for team name](img/ai-flamingo.png)
+<img alt="Compulsory AI generated image for team name" src="img/ai-flamingo.png" width="360" height="360">
 
 * [Shoshin (初心)](https://en.wikipedia.org/wiki/Shoshin): The Zen term for `Beginner's mind` that includes openness,
   eagerness, and lack of preconceptions.
