@@ -1,7 +1,9 @@
 # C1 Context
 
-This diagram provides a high-level overview of the **Certifiable System** and the external actors that interact with it. It illustrates how each actor (people or roles) connects to the core system, reflecting their primary responsibilities and touchpoints.
 ![img.png](img/c1-diagram.png)
+## Description
+This diagram provides a high-level overview of the **Certifiable System** and the external actors that interact with it. It illustrates how each actor (people or roles) connects to the core system, reflecting their primary responsibilities and touchpoints.
+
 ## Components and Actors
 
 1. **Certifiable System (System)**

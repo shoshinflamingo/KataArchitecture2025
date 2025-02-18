@@ -1,8 +1,8 @@
 # C2 Container
 
-This Container diagram provides a deeper look into how the **Certifiable System** is structured internally. It shows the main software services (containers), the databases they rely on, and how each actor interacts with these components.
 ![img.png](img/c2-container.png)
----
+## Description
+This Container diagram provides a deeper look into how the **Certifiable System** is structured internally. It shows the main software services (containers), the databases they rely on, and how each actor interacts with these components.
 
 ## Containers and Their Responsibilities
 
@@ -29,7 +29,6 @@ This Container diagram provides a deeper look into how the **Certifiable System*
     - Orchestrates administrative tasks, including adding and maintaining expert information.
     - Interacts with the **Expert Profile Database** to store and manage expert data.
 
----
 
 ## Databases
 
@@ -45,7 +44,6 @@ This Container diagram provides a deeper look into how the **Certifiable System*
 4. **Expert Profile Database**
     - Contains expert profiles and related data, enabling expert management and assignments.
 
----
 
 ## Actors
 
