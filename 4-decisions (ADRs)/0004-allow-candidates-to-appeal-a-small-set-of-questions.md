@@ -32,7 +32,10 @@ In the appeal web form we can ask to select the type of problem:
 * Grading doesn't match explanation
 * Explanation considered wrong.
 * Other
-  We should always allow a text section.
+  We should always allow a text section to explain the problems. 
+
+However, we noted that we could combine this option with both AI as a judge and manual evaluation.
+This will be the topic for [ADR 0004](0005-add-ai-as-a-judge-to-double-check-short-anwsers-grading.md).  
 
 ## Consequences (Trade-Offs)
 
