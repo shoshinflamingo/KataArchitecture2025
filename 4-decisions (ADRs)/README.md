@@ -7,6 +7,8 @@
   infrastructure as it is, but have multi-regional sharding deployment as plan B
 * [ADR-0003](0003-use-separated-components-for-AI-tasks.md): Use different components for AI tasks
 * [ADR-0004](0004-allow-candidates-to-appeal-a-small-set-of-questions.md): Allow candidates to appeal a small set of questions
+* [ADR-0005](0005-add-ai-as-a-judge-to-double-check-short-anwsers-grading.md): Add AI as a judge to double-check the grading of short answers.
+* [ADR-0006](0006-involve-ai-on-aptitude-test-generation.md): Involve AI on Aptitude Test Generation
 
 ## Notes
 
