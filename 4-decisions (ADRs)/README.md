@@ -9,6 +9,7 @@
 * [ADR-0004](0004-allow-candidates-to-appeal-a-small-set-of-questions.md): Allow candidates to appeal a small set of questions
 * [ADR-0005](0005-add-ai-as-a-judge-to-double-check-short-anwsers-grading.md): Add AI as a judge to double-check the grading of short answers.
 * [ADR-0006](0006-involve-ai-on-aptitude-test-generation.md): Involve AI on Aptitude Test Generation
+* [ADR-0007](0007-reuse-manual-grader-for-ai-grading.md): Reuse manual grader for AI grading (renaming it to `Aptitude Grader`)
 
 ## Notes
 
