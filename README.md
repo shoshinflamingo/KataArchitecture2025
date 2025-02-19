@@ -32,3 +32,17 @@ By integrating these AI-driven components, our new architecture aims to:
 - **Foster Transparency:** Empower candidates with an effective appeals process that reinforces trust in our certification system.
 
 This initiative marks a forward-thinking evolution of Certifiable, Inc.'s technology, ensuring that we not only keep pace with industry advancements but also set new standards for efficiency, quality, and fairness in certification.
+
+## Main changes
+
+### Aptitude Test
+![img.jpg](5-diagrams/1-updated-architecture-test-1.jpg)
+![img.jpg](5-diagrams/2-ai-subsystem-test-1.jpg)
+
+### Architecture practical case
+![img.jpg](5-diagrams/3-updated-architecture-test-2.jpg)
+![img.jpg](5-diagrams/4-ai-subsystem-test-1.jpg)
+
+### Admin interfaces
+![img.jpg](5-diagrams/4-ai-subsystem-test-1.jpg)
+
