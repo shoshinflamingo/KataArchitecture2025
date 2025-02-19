@@ -22,7 +22,7 @@ At least for a high percentage of answers.
 
 We decided to use `AI as a judge` to evaluate the performance of our `Short Answer AI Grader` because
 
-* Our objetive is to save time and work with AI. Manual sampling would require a lot of verifications from experts
+* Our objective is to save time and work with AI. Manual sampling would require a lot of verifications from experts.
 * Old data could be an initial approach but would not work with any future test and can get obsolete. Also, it prevents
 us from using this information to improve our AI.
   (Evaluating a model with the data that has been trained is like repeating last year's test for the final exam)
