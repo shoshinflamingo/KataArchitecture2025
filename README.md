@@ -37,10 +37,14 @@ This initiative marks a forward-thinking evolution of Certifiable, Inc.'s techno
 
 ### Aptitude Test
 ![img.jpg](5-diagrams/1-updated-architecture-test-1.jpg)
+
+### AI subsystem for Aptitude Test
 ![img.jpg](5-diagrams/2-ai-subsystem-test-1.jpg)
 
 ### Architecture practical case
 ![img.jpg](5-diagrams/3-updated-architecture-test-2.jpg)
+
+### AI subsystem for practical case
 ![img.jpg](5-diagrams/4-ai-subsystem-test-1.jpg)
 
 ### Admin interfaces
